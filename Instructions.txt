@@ -1,0 +1,6 @@
+conda create --name "UnniWorks" python =3.8
+conda activate UnniWorks
+pip install jupyter notebook
+pip install jupyter_contrib_nbextensions
+pip install pandas
+pip install openpyxl
